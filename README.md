@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since... definitely too long<br>📚 I'm currently learning React<br>🎲 Fun fact: I used to study history<br>👨‍🎓 Live quote: "Meh... good enough." – Famous ancient philosopher, Mediocrates</p>
+<p align="left">✨ Creating bugs since... definitely too long<br>📚 I'm currently learning React<br>🎲 Fun fact: I used to study history<br>👨‍🎓 Live quote: "Meh... good enough." – Famous ancient philosopher, Mediocrates<br>👻 Check this out: https://www.codewars.com/users/MescoCzubinski</p>
 
 ###
 
