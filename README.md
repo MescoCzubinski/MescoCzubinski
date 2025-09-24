@@ -4,6 +4,8 @@ My name is [Mieszko](https://www.linkedin.com/in/mieszko-czubinski/) and I'm a S
 
 I'm passionate about creating useful applications. Whether as a Developer or a Project Manager. Currently, I serve as PM, co-president, and Frontend Developer at the Computer Science Students Club [WMS_DEV](https://wmsdev.pl/).
 
+[![An image of @mescoczubinski's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mescoczubinski)](https://holopin.io/@mescoczubinski)
+
 ## Languages I work with
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />&nbsp;
